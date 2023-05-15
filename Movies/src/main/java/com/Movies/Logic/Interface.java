@@ -1,9 +1,6 @@
 package com.Movies.Logic;
-
 import java.util.List;
-
 import org.springframework.http.ResponseEntity;
-
 import com.Movies.Entity.Movie;
 import com.Movies.dto.MovieDto;
 
